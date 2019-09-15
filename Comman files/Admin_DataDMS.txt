@@ -1,0 +1,26 @@
+//Add Admin Service
+//http://localhost:8081/admin/add
+{
+	"firstName":"Rahul ",
+	"lastName":"Naikwade",
+	"emailId":"rn@gmail.com",
+	"contact":"951105002",
+	"aadharNo":12421412141,
+	"panNo":"2235NJHJ7",
+	"dob":"01-12-1994",
+	
+	"longin":{
+		"userName":"rn",
+		"password":"rn",
+		"role":101
+	},
+	
+	"address":{
+	"village":"chausala",
+	"talName":"Beed",
+	"distName":"beed",
+	"stateName":"MH",
+	"countryName":"INR",
+	"ziPcode":431126
+	}		
+}

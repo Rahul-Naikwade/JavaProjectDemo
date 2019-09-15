@@ -1,0 +1,28 @@
+//employee Add Service
+
+
+
+"employee":{ "firstName":"Pandu",
+	"lastName":"Giram",
+	"emailId":"pg@gmail.com",
+	"contact":"5252",
+	"aadharNo":2351412141,
+	"panNo":"255NJHJ7",
+	"dob":"01-05-1993", 
+	"joiningDate":"16-12-2016",
+	"salary":231421.14,
+	"longin":{
+		"userName":"pg",
+		"password":"pg",
+		"role":102
+	},
+	"address":{
+	"village":"Babhalgaon",
+	"talName":"Pathri",
+	"distName":"Parbhani",
+"stateName":"MH",
+"countryName":"INR",
+"ziPcode":431126
+	}
+	
+	}
